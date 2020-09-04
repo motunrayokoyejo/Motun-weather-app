@@ -54,6 +54,8 @@ fieldset{
   }
   .submit-button {
     background-color: transparent;
+    font-size: 25px;
+    font-style: normal;
     border:2px solid #ddd;
     padding:10px 30px;
     width: 100%;
